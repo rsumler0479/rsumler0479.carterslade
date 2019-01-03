@@ -1,8 +1,4 @@
 /*
-  Theme Name: eBusiness
-  Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
 */
 
 /*-----------------------------------------------------------------------------------
@@ -995,7 +991,7 @@ div#preloader {
 /*--------------------------------*/
 
 .reviews-area {
-  background: url(../img/background/bg1.jpg);
+  background: url(../img/background/onemic.jpg);
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
